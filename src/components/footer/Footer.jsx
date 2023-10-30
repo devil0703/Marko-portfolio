@@ -15,7 +15,7 @@ function Footer() {
       <li><a href="#testimonials">testimonials</a></li>
       </ul>
       <div className="footer__socials">
-          <a href="https://github.com"><FaGithub/></a>
+          <a href="https://github.com/MarkoStrauss/"><FaGithub/></a>
           <a href="https://www.linkedin.com/in/marko-strauss-189a00298/"><FaLinkedin/></a> 
        </div>             
     </footer>
