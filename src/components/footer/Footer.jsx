@@ -11,12 +11,12 @@ function Footer() {
       <li><a href="#about">about</a></li>
       <li><a href="#experience">experience</a></li>
       <li><a href="#portfolio">portfolio</a></li>
-      <li><a href="#service">work</a></li>
+      <li><a href="#services">work</a></li>
       <li><a href="#testimonials">testimonials</a></li>
       </ul>
       <div className="footer__socials">
           <a href="https://github.com"><FaGithub/></a>
-          <a href="https://linkedin.com"><FaLinkedin/></a> 
+          <a href="https://www.linkedin.com/in/marko-strauss-189a00298/"><FaLinkedin/></a> 
        </div>             
     </footer>
   )
