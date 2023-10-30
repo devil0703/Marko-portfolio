@@ -1,5 +1,5 @@
 import React from 'react'
-import Me from '../../assets/me-about.jpg'
+import Me from '../../assets/marko.png'
 import {FaHome, FaConnectdevelop} from 'react-icons/fa'
 import {FiPhone} from 'react-icons/fi'
  import './About.css'
@@ -49,7 +49,6 @@ function About() {
           leveraging my technical knowledge and leadership capabilities to drive innovation and achieve optimal results.
            My career reflects a passion for staying updated with emerging technologies and adapting them to create robust, efficient software systems.          
        </p>
-       <a href="#contact" className= 'btn btn-primary'>Let's Talk </a> 
       </div>
       </div>
     </section>
