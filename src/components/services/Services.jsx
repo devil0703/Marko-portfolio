@@ -14,15 +14,15 @@ function Services() {
         </div>
         <ul className='service__list'>
           <li>
-          <BiBuildings  className='service__list-icon'/>   Rubypy<br/>
-          <BiLocationPlus className='service__list-icon' />   Toronto, Canada<br/>
+          <BiBuildings  className='service__list-icon'/>   Spiria<br/>
+          <BiLocationPlus className='service__list-icon' />   Montréal, Canada<br/>
           <BiCalendar className='service__list-icon'/>   <small>2022.8-Present</small><br/>
           </li>
           <li>
-          <BiCheck className='service__list-icon'/> <small>Worked with project managers, developers, quality assurance and customers to resolve technical issues.</small><br/>
-          <BiCheck className='service__list-icon'/> <small>Worked with development teams to correct problems and run test scenarios.</small><br/>
-          <BiCheck className='service__list-icon'/> <small>Promoted technical leadership to entry-level and junior engineers in complex enterprise system environment.</small><br/>
-          <BiCheck className='service__list-icon'/> <small>Led software development initiative as subject matter expert and primary point-of-contact for project management staff.</small><br/><br/>
+          <BiCheck className='service__list-icon'/> <small>Collaborate with cross-functional teams to gather and refine project requirements, and work closely with front-end developers and designers to ensure seamless user experiences.</small><br/>
+          <BiCheck className='service__list-icon'/> <small>Design, develop, and maintain complex web applications, ensuring seamless integration of front-end and back-end components.</small><br/>
+          <BiCheck className='service__list-icon'/> <small>Validated code for proper structuring, security and compatibility with different browsers, devices or operating systems.</small><br/>
+          <BiCheck className='service__list-icon'/> <small>Conduct rigorous testing, debugging, and troubleshooting to identify and resolve issues.</small><br/><br/>
           </li>
         </ul>
         </article>
@@ -32,9 +32,9 @@ function Services() {
         </div>
         <ul className='service__list'>
           <li>
-          <BiBuildings  className='service__list-icon'/>   MLTech Soft<br/>
-          <BiLocationPlus className='service__list-icon' />   Singapore, Singapore<br/>
-          <BiCalendar className='service__list-icon'/>   <small>2020.3-2022.10</small><br/>
+          <BiBuildings  className='service__list-icon'/>   Techugo<br/>
+          <BiLocationPlus className='service__list-icon' />   Ontario, Canada<br/>
+          <BiCalendar className='service__list-icon'/>   <small>2020.4-2022.6</small><br/>
           </li>
           <li>
           <BiCheck className='service__list-icon'/> <small>Collaborated with engineering team to review application requirements, plan implementation details and estimate delivery timelines.</small><br/>
@@ -51,9 +51,9 @@ function Services() {
         </div>
         <ul className='service__list'>
           <li>
-          <BiBuildings  className='service__list-icon'/>   LME Services<br/>
+          <BiBuildings  className='service__list-icon'/>   Royal Bank of Canada<br/>
           <BiLocationPlus className='service__list-icon' />   Toronto, Canada<br/>
-          <BiCalendar className='service__list-icon'/>   <small>2019.8-2020.4</small><br/>
+          <BiCalendar className='service__list-icon'/>   <small>2019.8-2020.3</small><br/>
           </li>
           <li>
           <BiCheck className='service__list-icon'/> <small>Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs, and enhancements.</small><br/>
