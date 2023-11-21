@@ -4,7 +4,7 @@ import AVTR1 from'../../assets/avatar1.jpg'
 import AVTR2 from'../../assets/avatar2.jpg'
 import AVTR3 from'../../assets/avatar3.jpg'
 import AVTR4 from'../../assets/avatar4.jpg'
-import { Pagination, Ally } from 'swiper'
+import { Pagination } from 'swiper'
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 import"swiper/css";
@@ -26,8 +26,7 @@ const data1 = [
    {
     avatar: AVTR3,
     name_1: 'Jack Snow',
-    review:  "Their meticulous attention to detail and innovative approach resulted in a product that has truly given us a competitive edge.
- "
+    review:  "Their meticulous attention to detail and innovative approach resulted in a product that has truly given us a competitive edge."
    },
    {
     avatar: AVTR4,
