@@ -26,7 +26,8 @@ const data1 = [
    {
     avatar: AVTR3,
     name_1: 'Jack Snow',
-    review:  "A great guy to work with. Understand the problem instantly and provides good solutions! "
+    review:  "Their meticulous attention to detail and innovative approach resulted in a product that has truly given us a competitive edge.
+ "
    },
    {
     avatar: AVTR4,
